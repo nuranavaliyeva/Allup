@@ -1,0 +1,389 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nuran\\source\\repos\\AllupMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54E857CF-29A6-4647-8323-F4008E312676}|AllupMVC\\AllupMVC.csproj|c:\\users\\nuran\\source\\repos\\allupmvc\\allupmvc\\utilities\\extensions\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54E857CF-29A6-4647-8323-F4008E312676}|AllupMVC\\AllupMVC.csproj|solutionrelative:allupmvc\\utilities\\extensions\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E857CF-29A6-4647-8323-F4008E312676}|AllupMVC\\AllupMVC.csproj|c:\\users\\nuran\\source\\repos\\allupmvc\\allupmvc\\areas\\admin\\controllers\\slidecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54E857CF-29A6-4647-8323-F4008E312676}|AllupMVC\\AllupMVC.csproj|solutionrelative:allupmvc\\areas\\admin\\controllers\\slidecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E857CF-29A6-4647-8323-F4008E312676}|AllupMVC\\AllupMVC.csproj|c:\\users\\nuran\\source\\repos\\allupmvc\\allupmvc\\utilities\\enums\\filesize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54E857CF-29A6-4647-8323-F4008E312676}|AllupMVC\\AllupMVC.csproj|solutionrelative:allupmvc\\utilities\\enums\\filesize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E857CF-29A6-4647-8323-F4008E312676}|AllupMVC\\AllupMVC.csproj|c:\\users\\nuran\\source\\repos\\allupmvc\\allupmvc\\areas\\admin\\views\\slide\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54E857CF-29A6-4647-8323-F4008E312676}|AllupMVC\\AllupMVC.csproj|solutionrelative:allupmvc\\areas\\admin\\views\\slide\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E857CF-29A6-4647-8323-F4008E312676}|AllupMVC\\AllupMVC.csproj|c:\\users\\nuran\\source\\repos\\allupmvc\\allupmvc\\models\\slide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54E857CF-29A6-4647-8323-F4008E312676}|AllupMVC\\AllupMVC.csproj|solutionrelative:allupmvc\\models\\slide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E857CF-29A6-4647-8323-F4008E312676}|AllupMVC\\AllupMVC.csproj|c:\\users\\nuran\\source\\repos\\allupmvc\\allupmvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54E857CF-29A6-4647-8323-F4008E312676}|AllupMVC\\AllupMVC.csproj|solutionrelative:allupmvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E857CF-29A6-4647-8323-F4008E312676}|AllupMVC\\AllupMVC.csproj|c:\\users\\nuran\\source\\repos\\allupmvc\\allupmvc\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54E857CF-29A6-4647-8323-F4008E312676}|AllupMVC\\AllupMVC.csproj|solutionrelative:allupmvc\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E857CF-29A6-4647-8323-F4008E312676}|AllupMVC\\AllupMVC.csproj|c:\\users\\nuran\\source\\repos\\allupmvc\\allupmvc\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54E857CF-29A6-4647-8323-F4008E312676}|AllupMVC\\AllupMVC.csproj|solutionrelative:allupmvc\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E857CF-29A6-4647-8323-F4008E312676}|AllupMVC\\AllupMVC.csproj|c:\\users\\nuran\\source\\repos\\allupmvc\\allupmvc\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54E857CF-29A6-4647-8323-F4008E312676}|AllupMVC\\AllupMVC.csproj|solutionrelative:allupmvc\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E857CF-29A6-4647-8323-F4008E312676}|AllupMVC\\AllupMVC.csproj|c:\\users\\nuran\\source\\repos\\allupmvc\\allupmvc\\areas\\admin\\views\\slide\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54E857CF-29A6-4647-8323-F4008E312676}|AllupMVC\\AllupMVC.csproj|solutionrelative:allupmvc\\areas\\admin\\views\\slide\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E857CF-29A6-4647-8323-F4008E312676}|AllupMVC\\AllupMVC.csproj|c:\\users\\nuran\\source\\repos\\allupmvc\\allupmvc\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54E857CF-29A6-4647-8323-F4008E312676}|AllupMVC\\AllupMVC.csproj|solutionrelative:allupmvc\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E857CF-29A6-4647-8323-F4008E312676}|AllupMVC\\AllupMVC.csproj|c:\\users\\nuran\\source\\repos\\allupmvc\\allupmvc\\areas\\admin\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54E857CF-29A6-4647-8323-F4008E312676}|AllupMVC\\AllupMVC.csproj|solutionrelative:allupmvc\\areas\\admin\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E857CF-29A6-4647-8323-F4008E312676}|AllupMVC\\AllupMVC.csproj|c:\\users\\nuran\\source\\repos\\allupmvc\\allupmvc\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54E857CF-29A6-4647-8323-F4008E312676}|AllupMVC\\AllupMVC.csproj|solutionrelative:allupmvc\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E857CF-29A6-4647-8323-F4008E312676}|AllupMVC\\AllupMVC.csproj|c:\\users\\nuran\\source\\repos\\allupmvc\\allupmvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54E857CF-29A6-4647-8323-F4008E312676}|AllupMVC\\AllupMVC.csproj|solutionrelative:allupmvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E857CF-29A6-4647-8323-F4008E312676}|AllupMVC\\AllupMVC.csproj|c:\\users\\nuran\\source\\repos\\allupmvc\\allupmvc\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54E857CF-29A6-4647-8323-F4008E312676}|AllupMVC\\AllupMVC.csproj|solutionrelative:allupmvc\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E857CF-29A6-4647-8323-F4008E312676}|AllupMVC\\AllupMVC.csproj|c:\\users\\nuran\\source\\repos\\allupmvc\\allupmvc\\views\\shop\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54E857CF-29A6-4647-8323-F4008E312676}|AllupMVC\\AllupMVC.csproj|solutionrelative:allupmvc\\views\\shop\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E857CF-29A6-4647-8323-F4008E312676}|AllupMVC\\AllupMVC.csproj|c:\\users\\nuran\\source\\repos\\allupmvc\\allupmvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54E857CF-29A6-4647-8323-F4008E312676}|AllupMVC\\AllupMVC.csproj|solutionrelative:allupmvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E857CF-29A6-4647-8323-F4008E312676}|AllupMVC\\AllupMVC.csproj|c:\\users\\nuran\\source\\repos\\allupmvc\\allupmvc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54E857CF-29A6-4647-8323-F4008E312676}|AllupMVC\\AllupMVC.csproj|solutionrelative:allupmvc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E857CF-29A6-4647-8323-F4008E312676}|AllupMVC\\AllupMVC.csproj|c:\\users\\nuran\\source\\repos\\allupmvc\\allupmvc\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54E857CF-29A6-4647-8323-F4008E312676}|AllupMVC\\AllupMVC.csproj|solutionrelative:allupmvc\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E857CF-29A6-4647-8323-F4008E312676}|AllupMVC\\AllupMVC.csproj|c:\\users\\nuran\\source\\repos\\allupmvc\\allupmvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{54E857CF-29A6-4647-8323-F4008E312676}|AllupMVC\\AllupMVC.csproj|solutionrelative:allupmvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E857CF-29A6-4647-8323-F4008E312676}|AllupMVC\\AllupMVC.csproj|c:\\users\\nuran\\source\\repos\\allupmvc\\allupmvc\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54E857CF-29A6-4647-8323-F4008E312676}|AllupMVC\\AllupMVC.csproj|solutionrelative:allupmvc\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E857CF-29A6-4647-8323-F4008E312676}|AllupMVC\\AllupMVC.csproj|c:\\users\\nuran\\source\\repos\\allupmvc\\allupmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54E857CF-29A6-4647-8323-F4008E312676}|AllupMVC\\AllupMVC.csproj|solutionrelative:allupmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E857CF-29A6-4647-8323-F4008E312676}|AllupMVC\\AllupMVC.csproj|c:\\users\\nuran\\source\\repos\\allupmvc\\allupmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54E857CF-29A6-4647-8323-F4008E312676}|AllupMVC\\AllupMVC.csproj|solutionrelative:allupmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileSize.cs",
+              "DocumentMoniker": "C:\\Users\\Nuran\\source\\repos\\AllupMVC\\AllupMVC\\Utilities\\Enums\\FileSize.cs",
+              "RelativeDocumentMoniker": "AllupMVC\\Utilities\\Enums\\FileSize.cs",
+              "ToolTip": "C:\\Users\\Nuran\\source\\repos\\AllupMVC\\AllupMVC\\Utilities\\Enums\\FileSize.cs",
+              "RelativeToolTip": "AllupMVC\\Utilities\\Enums\\FileSize.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T20:13:51.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Nuran\\source\\repos\\AllupMVC\\AllupMVC\\Utilities\\Extensions\\FileValidator.cs",
+              "RelativeDocumentMoniker": "AllupMVC\\Utilities\\Extensions\\FileValidator.cs",
+              "ToolTip": "C:\\Users\\Nuran\\source\\repos\\AllupMVC\\AllupMVC\\Utilities\\Extensions\\FileValidator.cs",
+              "RelativeToolTip": "AllupMVC\\Utilities\\Extensions\\FileValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T20:07:24.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Slide.cs",
+              "DocumentMoniker": "C:\\Users\\Nuran\\source\\repos\\AllupMVC\\AllupMVC\\Models\\Slide.cs",
+              "RelativeDocumentMoniker": "AllupMVC\\Models\\Slide.cs",
+              "ToolTip": "C:\\Users\\Nuran\\source\\repos\\AllupMVC\\AllupMVC\\Models\\Slide.cs",
+              "RelativeToolTip": "AllupMVC\\Models\\Slide.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T22:48:25.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nuran\\source\\repos\\AllupMVC\\AllupMVC\\Areas\\Admin\\Views\\Slide\\Create.cshtml",
+              "RelativeDocumentMoniker": "AllupMVC\\Areas\\Admin\\Views\\Slide\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Nuran\\source\\repos\\AllupMVC\\AllupMVC\\Areas\\Admin\\Views\\Slide\\Create.cshtml",
+              "RelativeToolTip": "AllupMVC\\Areas\\Admin\\Views\\Slide\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T23:38:21.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nuran\\source\\repos\\AllupMVC\\AllupMVC\\Areas\\Admin\\Views\\Slide\\Index.cshtml",
+              "RelativeDocumentMoniker": "AllupMVC\\Areas\\Admin\\Views\\Slide\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nuran\\source\\repos\\AllupMVC\\AllupMVC\\Areas\\Admin\\Views\\Slide\\Index.cshtml",
+              "RelativeToolTip": "AllupMVC\\Areas\\Admin\\Views\\Slide\\Index.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T22:45:21.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SlideController.cs",
+              "DocumentMoniker": "C:\\Users\\Nuran\\source\\repos\\AllupMVC\\AllupMVC\\Areas\\Admin\\Controllers\\SlideController.cs",
+              "RelativeDocumentMoniker": "AllupMVC\\Areas\\Admin\\Controllers\\SlideController.cs",
+              "ToolTip": "C:\\Users\\Nuran\\source\\repos\\AllupMVC\\AllupMVC\\Areas\\Admin\\Controllers\\SlideController.cs",
+              "RelativeToolTip": "AllupMVC\\Areas\\Admin\\Controllers\\SlideController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwEMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T22:39:18.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nuran\\source\\repos\\AllupMVC\\AllupMVC\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "RelativeDocumentMoniker": "AllupMVC\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Nuran\\source\\repos\\AllupMVC\\AllupMVC\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "RelativeToolTip": "AllupMVC\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwBQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T21:19:11.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Nuran\\source\\repos\\AllupMVC\\AllupMVC\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "AllupMVC\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Nuran\\source\\repos\\AllupMVC\\AllupMVC\\Models\\Category.cs",
+              "RelativeToolTip": "AllupMVC\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T17:08:02.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nuran\\source\\repos\\AllupMVC\\AllupMVC\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "AllupMVC\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Nuran\\source\\repos\\AllupMVC\\AllupMVC\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "AllupMVC\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T16:31:19.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nuran\\source\\repos\\AllupMVC\\AllupMVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "AllupMVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Nuran\\source\\repos\\AllupMVC\\AllupMVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "AllupMVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T15:03:07.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nuran\\source\\repos\\AllupMVC\\AllupMVC\\Views\\Shop\\Index.cshtml",
+              "RelativeDocumentMoniker": "AllupMVC\\Views\\Shop\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nuran\\source\\repos\\AllupMVC\\AllupMVC\\Views\\Shop\\Index.cshtml",
+              "RelativeToolTip": "AllupMVC\\Views\\Shop\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T14:55:21.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nuran\\source\\repos\\AllupMVC\\AllupMVC\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "AllupMVC\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nuran\\source\\repos\\AllupMVC\\AllupMVC\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "AllupMVC\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T14:09:49.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Nuran\\source\\repos\\AllupMVC\\AllupMVC\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "AllupMVC\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Nuran\\source\\repos\\AllupMVC\\AllupMVC\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "AllupMVC\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T14:02:02.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nuran\\source\\repos\\AllupMVC\\AllupMVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "AllupMVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Nuran\\source\\repos\\AllupMVC\\AllupMVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "AllupMVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T13:58:15.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nuran\\source\\repos\\AllupMVC\\AllupMVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AllupMVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Nuran\\source\\repos\\AllupMVC\\AllupMVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AllupMVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAD4vxsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T13:49:37.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nuran\\source\\repos\\AllupMVC\\AllupMVC\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AllupMVC\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nuran\\source\\repos\\AllupMVC\\AllupMVC\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AllupMVC\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIBAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T13:33:22.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Nuran\\source\\repos\\AllupMVC\\AllupMVC\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AllupMVC\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Nuran\\source\\repos\\AllupMVC\\AllupMVC\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AllupMVC\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T13:32:46.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Nuran\\source\\repos\\AllupMVC\\AllupMVC\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "AllupMVC\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Nuran\\source\\repos\\AllupMVC\\AllupMVC\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "AllupMVC\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-08T13:17:03.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Nuran\\source\\repos\\AllupMVC\\AllupMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AllupMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Nuran\\source\\repos\\AllupMVC\\AllupMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AllupMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T12:48:03.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nuran\\source\\repos\\AllupMVC\\AllupMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AllupMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nuran\\source\\repos\\AllupMVC\\AllupMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AllupMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAALoAAAAAAAAAAAAAANIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T12:13:07.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nuran\\source\\repos\\AllupMVC\\AllupMVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "AllupMVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Nuran\\source\\repos\\AllupMVC\\AllupMVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "AllupMVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T12:12:58.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nuran\\source\\repos\\AllupMVC\\AllupMVC\\Views\\Shop\\Detail.cshtml",
+              "RelativeDocumentMoniker": "AllupMVC\\Views\\Shop\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\Nuran\\source\\repos\\AllupMVC\\AllupMVC\\Views\\Shop\\Detail.cshtml",
+              "RelativeToolTip": "AllupMVC\\Views\\Shop\\Detail.cshtml",
+              "ViewState": "AgIAAGsBAAAAAAAAAAAAAH0BAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T11:11:24.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "C:\\Users\\Nuran\\source\\repos\\AllupMVC\\AllupMVC\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "AllupMVC\\Controllers\\ShopController.cs",
+              "ToolTip": "C:\\Users\\Nuran\\source\\repos\\AllupMVC\\AllupMVC\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "AllupMVC\\Controllers\\ShopController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAxwCkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T10:30:29.126Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
